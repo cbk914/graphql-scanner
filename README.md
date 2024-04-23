@@ -18,7 +18,7 @@ Other checks will be added.
 
 Clone repository with:
 
-  git clone https://github.com/davidfortytwo/graphql-scanner
+  git clone https://github.com/cbk914/graphql-scanner
 
 Install dependencies with:
 
